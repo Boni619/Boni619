@@ -1,6 +1,6 @@
-## Hey 👋, I'm [Boni Gope!](https://bonigope.com/)
+## Hey 👋, I'm [Boni](https://bonigope.com/)
 
-[![BuyMeCofee Badge](https://img.shields.io/badge/Buy%20Me%20Cofee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/boni6196)
+[![BuyMeCofee Badge](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-black?logo=buy-me-a-coffee&style=for-the-badge)](https://buymeacoffee.com/boni6196)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge)](https://bonigope.com)
 [![Twiter Badge](https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge)](https://twitter.com/gope_boni)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge)](https://linkedin.com/in/boni619)
